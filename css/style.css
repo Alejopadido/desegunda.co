@@ -16,9 +16,32 @@ nav {
     background-color: #FF5D00;
     font-size: 2.2rem;
 }
+.navbar-collapse {
+    font-size: 2rem;
+}
 .container-fluid {
     font-size: 1.3rem;
 }
 .container-fluid button {
     font-size: 1.3rem;
 }
+.productos {
+    flex-wrap: wrap;
+}
+.productos .card {
+    border-radius: 1rem;
+}
+.productos .card img{
+    border-radius: 1rem 1rem 0rem 0rem;
+}
+
+.footer {
+    background-color: #2A231F;
+    height: 70px;
+}
+.footer i {
+    color: white;
+    font-size: 2rem;
+    margin: 1rem;
+}
+
