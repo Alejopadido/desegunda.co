@@ -15,6 +15,7 @@ html {
 nav {
     background-color: #FF5D00;
     font-size: 2.2rem;
+    height: 60px;
 }
 .navbar-collapse {
     font-size: 2rem;
@@ -45,3 +46,27 @@ nav {
     margin: 1rem;
 }
 
+.vender {
+    margin-top: 60px;
+    margin-right: 40px;
+    width: 180px;
+    min-width: 160px;
+    height: 140px;
+    border: none;
+    border-radius: 20px;
+    background-color: #D8DDE3;
+}
+
+.new-publi-ico {
+    font-size: 100px !important;
+    color: #8A96A4;
+}
+.input-cuenta {
+    max-width: 200px;
+}
+.form-group {
+    width: 200px;
+}
+.form-control {
+    font-size: 1.5rem;
+}
